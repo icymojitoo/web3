@@ -12,6 +12,7 @@
     "alchemy-sdk": "^2.0.4"
   },
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.11.2"
   }
 }
